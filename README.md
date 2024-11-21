@@ -4,6 +4,8 @@ Hi there! 👋 Welcome to my repository for small Python projects I'm working on
 ## Project Highlight: Rock, Paper, Scissors
 - One of the projects in this repository is a Rock, Paper, Scissors game. It's a classic game where you play against the computer. Here's a quick overview of how it works:
 
+  <img src = "Screenshot 2024-11-20 11.13.25 PM.png">
+
 You can choose between rock, paper, or scissors.
 The computer randomly makes its own choice.
 The game then decides the winner based on the traditional rules:
