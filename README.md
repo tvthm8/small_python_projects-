@@ -14,3 +14,9 @@ Scissors beat Paper
 Paper beats Rock
 If both you and the computer make the same choice, it's a tie!
 I had fun building this as it helped me practice working with Python's random module, user input, and conditional logic. It's a small project, but it's a great way to learn the basics of Python programming!
+
+## Part 2
+Now it's a best-of-three match! You and the computer compete until one of you wins 2 rounds.
+The game keeps track of the score for both the player and the computer.
+Once someone reaches 2 wins, the overall winner is announced with a congratulatory message.
+This update added more logic to the code, and I had a lot of fun implementing a scoring system. It was a great way to dive deeper into loops and conditionals in Python.
