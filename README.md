@@ -22,3 +22,13 @@ Once someone reaches 2 wins, the overall winner is announced with a congratulato
 This update added more logic to the code, and I had a lot of fun implementing a scoring system. It was a great way to dive deeper into loops and conditionals in Python.
 
 <img src = "Screenshot 2024-11-21 8.02.56 AM.png">
+
+ ## Food Order System (Part 1)
+I recently started working on a Food Order System, and this is just the beginning (Part 1 of 2)! It's a simple program that simulates an ordering process for Italian meals. Here's what it does so far:
+
+## Part 1:
+Displays a menu of Italian dishes, including classics like Pasta Bolognese, Pepperoni Pizza, Margherita Pizza, and Lasagna.
+Allows the user to choose a meal from the menu.
+Prompts the user to specify how much of the chosen meal they'd like.
+Provides a summary of the order (or notifies the user if the meal isn't available).
+This project gave me a chance to practice working with functions, input handling, and list-based menus in Python. It’s a foundational step as I gear up for Part 2, where I plan to add more interactivity and functionality.
