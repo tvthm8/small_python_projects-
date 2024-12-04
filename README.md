@@ -32,3 +32,5 @@ Allows the user to choose a meal from the menu.
 Prompts the user to specify how much of the chosen meal they'd like.
 Provides a summary of the order (or notifies the user if the meal isn't available).
 This project gave me a chance to practice working with functions, input handling, and list-based menus in Python. It’s a foundational step as I gear up for Part 2, where I plan to add more interactivity and functionality.
+
+<img src = "Screenshot 2024-12-04 11.57.35 AM.png">
