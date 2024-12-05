@@ -44,3 +44,5 @@ Dynamic Menu Display: Depending on the selected cuisine, the program displays th
 Input Validation: The system now checks for valid food types and meals, ensuring a smoother user experience.
 Improved Order Summary: It still gives you a personalized confirmation, but now it works seamlessly across multiple menus.
 This update was all about expanding functionality while keeping the interface simple and intuitive. Part 2 wraps up this project by adding versatility, but who knows—I might revisit it in the future for even more features, like pricing, payment, or delivery options!
+
+<img src = "Screenshot 2024-12-04 9.28.36 PM.png">
