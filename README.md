@@ -34,3 +34,13 @@ Provides a summary of the order (or notifies the user if the meal isn't availabl
 This project gave me a chance to practice working with functions, input handling, and list-based menus in Python. It’s a foundational step as I gear up for Part 2, where I plan to add more interactivity and functionality.
 
 <img src = "Screenshot 2024-12-04 11.57.35 AM.png">
+
+Project Highlight: Food Order System (Part 2)
+This is Part 2 of my Food Order System project, and I’ve taken things up a notch! The system now supports multiple cuisines, adding more variety and flexibility to the ordering process. Here's what I added in this second installment:
+
+## New Features in Part 2:
+Multi-Cuisine Support: You can now choose between Italian and Indian meals. The Indian menu includes dishes like Curry, Chutney, Samosa, and Naan.
+Dynamic Menu Display: Depending on the selected cuisine, the program displays the appropriate menu for the user.
+Input Validation: The system now checks for valid food types and meals, ensuring a smoother user experience.
+Improved Order Summary: It still gives you a personalized confirmation, but now it works seamlessly across multiple menus.
+This update was all about expanding functionality while keeping the interface simple and intuitive. Part 2 wraps up this project by adding versatility, but who knows—I might revisit it in the future for even more features, like pricing, payment, or delivery options!
