@@ -42,6 +42,10 @@ Input Validation: The system now checks for valid food types and meals, ensuring
 Improved Order Summary: It still gives you a personalized confirmation, but now it works seamlessly across multiple menus.
 This update was all about expanding functionality while keeping the interface simple and intuitive. Part 2 wraps up this project by adding versatility, but who knows—I might revisit it in the future for even more features, like pricing, payment, or delivery options!
 
+Project Highlight: Food Order System (Part 2)
+This is Part 2 of my Food Order System project, and I’ve taken things up a notch! The system now supports multiple cuisines, adding more variety and flexibility to the ordering process. Here's what I added in this second installment:
+
+
 <img src = "Screenshot 2024-12-04 9.28.36 PM.png">
 
 ## This quick project was all about testing out a new IDE: Visual Studio Code. I created a simple Band Name Generator, 
@@ -49,5 +53,4 @@ which takes the name of your city and a pet, combines them, and gives you a fun 
 
 The process was straightforward, and after trying it out, I’ve decided VS Code will be my go-to IDE for projects moving forward!
 
-Project Highlight: Food Order System (Part 2)
-This is Part 2 of my Food Order System project, and I’ve taken things up a notch! The system now supports multiple cuisines, adding more variety and flexibility to the ordering process. Here's what I added in this second installment:
+<img src = "Screenshot 2024-12-11 11.30.56 PM.png">
