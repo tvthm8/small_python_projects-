@@ -35,6 +35,11 @@ This project gave me a chance to practice working with functions, input handling
 
 <img src = "Screenshot 2024-12-04 11.57.35 AM.png">
 
+## This quick project was all about testing out a new IDE: Visual Studio Code. I created a simple Band Name Generator, 
+- which takes the name of your city and a pet, combines them, and gives you a fun band name (e.g., "Statesboro Ace").
+
+The process was straightforward, and after trying it out, I’ve decided VS Code will be my go-to IDE for projects moving forward!
+
 Project Highlight: Food Order System (Part 2)
 This is Part 2 of my Food Order System project, and I’ve taken things up a notch! The system now supports multiple cuisines, adding more variety and flexibility to the ordering process. Here's what I added in this second installment:
 
