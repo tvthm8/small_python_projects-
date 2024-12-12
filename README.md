@@ -35,14 +35,6 @@ This project gave me a chance to practice working with functions, input handling
 
 <img src = "Screenshot 2024-12-04 11.57.35 AM.png">
 
-## This quick project was all about testing out a new IDE: Visual Studio Code. I created a simple Band Name Generator, 
-- which takes the name of your city and a pet, combines them, and gives you a fun band name (e.g., "Statesboro Ace").
-
-The process was straightforward, and after trying it out, I’ve decided VS Code will be my go-to IDE for projects moving forward!
-
-Project Highlight: Food Order System (Part 2)
-This is Part 2 of my Food Order System project, and I’ve taken things up a notch! The system now supports multiple cuisines, adding more variety and flexibility to the ordering process. Here's what I added in this second installment:
-
 ## New Features in Part 2:
 Multi-Cuisine Support: You can now choose between Italian and Indian meals. The Indian menu includes dishes like Curry, Chutney, Samosa, and Naan.
 Dynamic Menu Display: Depending on the selected cuisine, the program displays the appropriate menu for the user.
@@ -51,3 +43,11 @@ Improved Order Summary: It still gives you a personalized confirmation, but now 
 This update was all about expanding functionality while keeping the interface simple and intuitive. Part 2 wraps up this project by adding versatility, but who knows—I might revisit it in the future for even more features, like pricing, payment, or delivery options!
 
 <img src = "Screenshot 2024-12-04 9.28.36 PM.png">
+
+## This quick project was all about testing out a new IDE: Visual Studio Code. I created a simple Band Name Generator, 
+which takes the name of your city and a pet, combines them, and gives you a fun band name (e.g., "Statesboro Ace").
+
+The process was straightforward, and after trying it out, I’ve decided VS Code will be my go-to IDE for projects moving forward!
+
+Project Highlight: Food Order System (Part 2)
+This is Part 2 of my Food Order System project, and I’ve taken things up a notch! The system now supports multiple cuisines, adding more variety and flexibility to the ordering process. Here's what I added in this second installment:
