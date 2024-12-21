@@ -51,6 +51,21 @@ This is Part 2 of my Food Order System project, and I’ve taken things up a not
 ## This quick project was all about testing out a new IDE: Visual Studio Code. I created a simple Band Name Generator, 
 which takes the name of your city and a pet, combines them, and gives you a fun band name (e.g., "Statesboro Ace").
 
+<img src = "Screenshot 2024-12-11 11.30.56 PM.png">
+
+
+## API Project 
+I created a Python project that fetches data from the SWAPI.dev API using the requests library. This program retrieves and displays Star Wars characters dynamically while ensuring robust error handling.
+
+Key Highlights:
+API Integration: Connected to an external API and processed the JSON data effectively.
+Error Handling: Used try-except blocks to handle HTTP errors gracefully.
+Dynamic Querying: Allowed flexibility by enabling endpoint selection through the option parameter.
+
+Why This Stands Out:
+
+📋 Practical Learning: Hands-on experience with real-world API calls.
+
 The process was straightforward, and after trying it out, I’ve decided VS Code will be my go-to IDE for projects moving forward!
 
-<img src = "Screenshot 2024-12-11 11.30.56 PM.png">
+
