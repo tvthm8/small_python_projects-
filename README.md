@@ -68,4 +68,4 @@ Why This Stands Out:
 
 The process was straightforward, and after trying it out, I’ve decided VS Code will be my go-to IDE for projects moving forward!
 
-
+<img src = "Screenshot 2024-12-21 4.11.33 PM.png">
